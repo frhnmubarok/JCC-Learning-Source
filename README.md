@@ -1,5 +1,3 @@
-# JCC-Learning-Source
-
 ## Front-End
 
 ### Indonesian
