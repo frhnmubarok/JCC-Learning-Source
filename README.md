@@ -16,8 +16,6 @@
 - [Lama Dev](https://www.youtube.com/c/LamaDev)
 - [Tailwindlabs](https://www.youtube.com/c/TailwindLabs)
 - [Freecodecamp](https://www.youtube.com/c/Freecodecamp)
-
--- Special Hindi --
 - [Codedamn](https://www.youtube.com/c/codedamn)
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
