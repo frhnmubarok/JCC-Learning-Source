@@ -1,10 +1,12 @@
 ## Front-End
 
 ### Indonesian
+
 - [Prawito Hudoro](https://www.youtube.com/c/prawitohudoro)
 - [Arrayid](https://www.youtube.com/c/ArrayID)
 
 ### English
+
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 - [Academind](https://www.youtube.com/c/Academind)
@@ -17,15 +19,16 @@
 - [Codedamn](https://www.youtube.com/c/codedamn)
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
-
+- [Full Stack Open](https://fullstackopen.com/en/about/)
 
 ## Back-End
 
 ### Indonesian
+
 - [Web Programming Unpas](https://www.youtube.com/c/WebProgrammingUNPAS)
 
 ### English
+
 - [Code With Dary](https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw)
 
-
-> *Sharing is Caring*
+> _Sharing is Caring_
