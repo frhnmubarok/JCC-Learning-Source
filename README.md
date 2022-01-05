@@ -27,10 +27,6 @@
 
 ## Back-End
 
-### Indonesian
-
-- [Web Programming Unpas](https://www.youtube.com/c/WebProgrammingUNPAS)
-
 ### English
 
 - [Code With Dary](https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw)
@@ -40,6 +36,10 @@
 
 
 ## General
+
+### Indonesian
+
+- [Web Programming Unpas](https://www.youtube.com/c/WebProgrammingUNPAS)
 
 ### English
 - [ItsImtaz Khan](https://www.youtube.com/c/ItsImtazKhan)
@@ -76,6 +76,13 @@
 ## Udemy Free Coupons
 
 - [telegram](https://t.me/tutorialbar_udemy_coupons)
+
+
+## Self Development
+
+- [Satu Persen - Indonesian Life School](https://www.youtube.com/c/SatuPersenIndonesianLifeSchool)
+- [Si Kutu Buku](https://www.youtube.com/c/SiKutuBuku)
+- [BERILMU](https://www.youtube.com/c/BERILMU)
 
 
 > _Sharing is Caring_
