@@ -47,6 +47,7 @@
 - [Let's Code](https://www.youtube.com/c/LetsCodeFrontEnd)
 - [mycodeschool](https://www.youtube.com/user/mycodeschool)
 - [Will Kwan](https://www.youtube.com/c/WillKwan)
+- [Ben Awad](https://www.youtube.com/user/99baddawg)
 
 
 
